@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to my GitHub profile 👋
 
-<!--
-**Lachie1011/Lachie1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lachlan Masson and I am a 3rd year Software and Aerospace Engineering student 💻🚀 <br/>
 
-Here are some ideas to get you started:
+I am currently learning JAVA and Algorithims for uni and C# WPF on the side! <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aiming to complete a funcitioning management system in WPF soon! <br/>
+
+Would like to one day work with rocket autoplots and with embedded systems in that sense! <br/>
+
+Enjoying browsing my reps!
+
+
+
